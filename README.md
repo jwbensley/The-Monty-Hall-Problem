@@ -55,7 +55,7 @@ The output from the script is below. It runs 10,000 rounds of the game by defaul
 ```bash
 $./monty_hall.py
 
-Results when a known loosing door is revealed by the host:
+Results when a known losing door is revealed by the host:
 Player does not switch door
 Player lost (original choice was incorrect) for 66.93% (6693/10000) games
 Player won (original choice was correct) for 33.07% (3307/10000) games
@@ -65,7 +65,7 @@ Player lost (original choice was correct) for 33.29% (3329/10000) games
 Player won (original choice was incorrect) for 66.71% (6671/10000) games
 ```
 
-I have seen discrepancies on the Internet regarding whether Monty reveals a known loosing door (i.e. a door masking a goat) or a random door. Just to put this point of contention to rest, the script output above shows what happens when Monty opens a door known to mask a goat. The script output below shows what happens when Monty opens a door at random. It shows that the player cannot exceed a success rate of one in three and that the player has the same one in three chance of winning regardless of whether they switch doors or stick with their original choice:
+I have seen discrepancies on the Internet regarding whether Monty reveals a known losing door (i.e. a door masking a goat) or a random door. Just to put this point of contention to rest, the script output above shows what happens when Monty opens a door known to mask a goat. The script output below shows what happens when Monty opens a door at random. It shows that the player cannot exceed a success rate of one in three and that the player has the same one in three chance of winning regardless of whether they switch doors or stick with their original choice:
 ```bash
 Results when a random door is revealed by the host:
 Player does not switch door
