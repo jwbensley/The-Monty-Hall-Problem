@@ -71,7 +71,7 @@ def play_game(rand_reveal=False, switches=False, verbose=False):
         if result:
             print("Player wins!")
         else:
-            print("Player looses!")
+            print("Player loses!")
         print("")
 
     return result, revealed, switch_fail
@@ -183,7 +183,7 @@ def main():
     random.seed()
 
     print("")
-    print("Results when a known loosing door is revealed by the host:")
+    print("Results when a known losing door is revealed by the host:")
     print("Player does not switch door")
     simulate(args["num"], False, False, args["verbose"])
     print("Player switches door")
