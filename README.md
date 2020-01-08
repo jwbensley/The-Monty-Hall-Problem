@@ -19,7 +19,7 @@ Counter intuitively though, the contestant actually has a two in three chance of
 
 
 ## Answer Criterion & Modern Exclusions
-It has been said before that actually some people may want the goat (as per the [XKCD episode](https://www.xkcd.com/1282/)) perhaps as a kind of joke, to flip the probability of The Monty Hall problem around and imply that actually, two out of three doors would reveal a highly sort after item or that the probability was always in the players favour if they decided which outcome they prefer most rather than being told which outcome is “best” for them.
+It has been said before that actually some people may want the goat (as per the [XKCD episode](https://www.xkcd.com/1282/)) perhaps as a kind of joke, to flip the probability of The Monty Hall problem around and imply that actually, two out of three doors would reveal a highly sought after item or that the probability was always in the players favour if they decided which outcome they prefer most rather than being told which outcome is “best” for them.
 
 I believe that in our modern times this is an actual truth and not any kind of joke. Many people live car-less lives to reduce their CO2 emissions, and in an effort to be more sustainable would appreciate a free garden lawn mower which also produces milk and fertiliser. But as above, we’ll assume the sports car is the “best” prize.
 
