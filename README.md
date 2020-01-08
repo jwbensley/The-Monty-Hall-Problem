@@ -39,10 +39,10 @@ Four possible scenarios can unfold depending on whether the player chooses to sw
 1. Switching == Win  
 If the contestant initially chose a door which masks a goat, and Monty reveals the other goat, the remaining door must mask the sports car. In this case the “best” choice for the contestant is to switch to the third door before their chosen door is opened.
 
-2. Sticking == Loose  
+2. Sticking == Lose  
 If the contestant initially chose a door which masks a goat, and Monty reveals the other goat, the remaining door must mask the sports car. Not switching will result in the contestant "losing" the game.
 
-3. Switching == Loose  
+3. Switching == Lose  
 If the contestant initially chose the door which masks the sports car, and Monty reveals a goat, the third door masks another goat. Switching to the third door will result in the contestant "losing" the game.
 
 4. Sticking == Win  
